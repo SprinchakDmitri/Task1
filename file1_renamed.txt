@@ -8,3 +8,9 @@ drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:08 ./
 drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:06 ../
 drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:09 .git/
 -rw-r--r-- 1 DSprinceac 1049089 220 Oct  4 13:08 file1.txt
+total 18
+drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:15 ./
+drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:06 ../
+drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:13 .git/
+-rw-r--r-- 1 DSprinceac 1049089 448 Oct  4 13:09 file1_renamed.txt
+-rw-r--r-- 1 DSprinceac 1049089 287 Oct  4 13:14 file2.txt
