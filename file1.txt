@@ -1,0 +1,5 @@
+total 16
+drwxr-xr-x 1 DSprinceac 1049089 0 Oct  4 13:08 ./
+drwxr-xr-x 1 DSprinceac 1049089 0 Oct  4 13:06 ../
+drwxr-xr-x 1 DSprinceac 1049089 0 Oct  4 13:07 .git/
+-rw-r--r-- 1 DSprinceac 1049089 0 Oct  4 13:08 file1.txt
