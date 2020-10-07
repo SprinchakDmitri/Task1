@@ -1,0 +1,6 @@
+total 8
+-rw-r--r-- 1 DSprinceac 1049089    0 Oct  7 21:27 color.txt
+-rw-r--r-- 1 DSprinceac 1049089  759 Oct  7 21:11 file1_renamed.txt
+-rw-r--r-- 1 DSprinceac 1049089 1149 Oct  7 21:11 file2.txt
+-rw-r--r-- 1 DSprinceac 1049089    0 Oct  7 21:11 second_test.docx
+-rw-r--r-- 1 DSprinceac 1049089    0 Oct  7 21:11 test.docx
