@@ -14,3 +14,8 @@ drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:06 ../
 drwxr-xr-x 1 DSprinceac 1049089   0 Oct  4 13:13 .git/
 -rw-r--r-- 1 DSprinceac 1049089 448 Oct  4 13:09 file1_renamed.txt
 -rw-r--r-- 1 DSprinceac 1049089 287 Oct  4 13:14 file2.txt
+total 8
+-rw-r--r-- 1 DSprinceac 1049089  759 Oct  8 18:07 file1_renamed.txt
+-rw-r--r-- 1 DSprinceac 1049089 1149 Oct  8 18:02 file2.txt
+-rw-r--r-- 1 DSprinceac 1049089    0 Oct  8 18:02 second_test.docx
+-rw-r--r-- 1 DSprinceac 1049089    0 Oct  8 18:02 test.docx
